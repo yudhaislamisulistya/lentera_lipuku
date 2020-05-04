@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158940205683",
+    "firebase_url": "https://lentera-lipuku.firebaseio.com",
+    "project_id": "lentera-lipuku",
+    "storage_bucket": "lentera-lipuku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158940205683:android:da693d7631cf360a035006",
+        "android_client_info": {
+          "package_name": "com.biji.lentera_lipuku_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158940205683-3l1jgoqbo3tqnv01e4e0kbmm5jvic17h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biji.lentera_lipuku_new",
+            "certificate_hash": "cd189f9187304867e41d098c1cc2582f3e03e67c"
+          }
+        },
+        {
+          "client_id": "158940205683-rnsubn6no7qd81lisguneeftg0i2roc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ02FBklyMk-8hVYPCqfi8mEymOtFOYPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158940205683-rnsubn6no7qd81lisguneeftg0i2roc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
